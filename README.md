@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @miyamaker 
 - 👀 I’m interested in ... GODS DEVINE POWER
-- 🌱 I’m currently learning ... HOW TO WIN
+- 🌱 I’m currently learning ... COORDINATION
 - 💞 I’m looking to collaborate on ... LOVE
 - 📫 How to reach me ... IYKYK
-- 😄 Pronouns: ... NIGGA
-- ⚡ Fun fact: ... IM PISCES
 
 <!---
 miyamaker/miyamaker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
